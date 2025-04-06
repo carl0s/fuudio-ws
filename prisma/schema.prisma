@@ -1,0 +1,81 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model Week {
+  id          Int     @id @default(autoincrement())
+  // Potremmo usare un numero o un identificatore per la settimana se presente nel CSV
+  // weekIdentifier String? @unique
+  days        Day[]
+}
+
+model Day {
+  id        Int     @id @default(autoincrement())
+  // Giorno della settimana, es: "Lunedì", "Martedì"
+  name      String
+  weekId    Int
+  week      Week    @relation(fields: [weekId], references: [id])
+  mealOptions MealOption[]
+
+  @@index([weekId])
+  // Potremmo aggiungere un indice composto se le query lo richiedono spesso
+  // @@index([weekId, name])
+}
+
+model Meal {
+  id        Int     @id @default(autoincrement())
+  // Tipo di pasto, es: "Colazione", "Pranzo", "Cena"
+  name      String  @unique
+  mealOptions MealOption[]
+}
+
+model Recipe {
+  id          Int     @id @default(autoincrement())
+  // Descrizione della ricetta/piatto dal CSV
+  description String
+  mealOptions MealOption[]
+  // ingredients Ingredient[] // Relazione con Ingredienti (da definire meglio)
+}
+
+model MealOption {
+  id        Int     @id @default(autoincrement())
+  // La "Variante" dal CSV, potrebbe essere un testo descrittivo
+  variant   String?
+
+  dayId     Int
+  day       Day     @relation(fields: [dayId], references: [id])
+
+  mealId    Int
+  meal      Meal    @relation(fields: [mealId], references: [id])
+
+  recipeId  Int
+  recipe    Recipe  @relation(fields: [recipeId], references: [id])
+
+  @@index([dayId])
+  @@index([mealId])
+  @@index([recipeId])
+  // Potremmo aggiungere un vincolo unique se necessario, es:
+  // @@unique([dayId, mealId, variant])
+}
+
+// --- Modello Ingredienti (Semplificato) ---
+// Estrarre ingredienti strutturati dalla colonna "Descrizione" è complesso
+// senza conoscerne il formato preciso (es. lista separata da virgole, ecc.).
+// Per ora, potremmo omettere un modello 'Ingredient' separato o usarne uno molto semplice.
+// Se la descrizione contiene ingredienti in formato libero, potremmo aggiungerli in futuro.
+// model Ingredient {
+//   id   Int    @id @default(autoincrement())
+//   name String @unique
+//   // recipes Recipe[] // Se volessimo una relazione Many-to-Many
+// }
