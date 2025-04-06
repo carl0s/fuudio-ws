@@ -1,0 +1,421 @@
+Settimana,Giorno,Pasto,Variante,Descrizione
+Settimana 1,Lunedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Lunedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Lunedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Lunedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Lunedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Lunedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Lunedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Lunedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Lunedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Lunedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Lunedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Lunedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Lunedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Lunedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Lunedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Martedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Martedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Martedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Martedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Martedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Martedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Martedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Martedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Martedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Martedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Martedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Martedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Martedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Martedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Martedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Mercoledì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Mercoledì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Mercoledì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Mercoledì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Mercoledì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Mercoledì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Mercoledì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Mercoledì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Mercoledì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Mercoledì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Mercoledì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Mercoledì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Mercoledì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Mercoledì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Mercoledì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Giovedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Giovedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Giovedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Giovedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Giovedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Giovedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Giovedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Giovedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Giovedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Giovedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Giovedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Giovedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Giovedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Giovedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Giovedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Venerdì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Venerdì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Venerdì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Venerdì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Venerdì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Venerdì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Venerdì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Venerdì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Venerdì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Venerdì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Venerdì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Venerdì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Venerdì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Venerdì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Venerdì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Sabato,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Sabato,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Sabato,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Sabato,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Sabato,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Sabato,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Sabato,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Sabato,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Sabato,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Sabato,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Sabato,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Sabato,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Sabato,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Sabato,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Sabato,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 1,Domenica,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 1,Domenica,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 1,Domenica,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 1,Domenica,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 1,Domenica,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 1,Domenica,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 1,Domenica,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 1,Domenica,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 1,Domenica,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 1,Domenica,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 1,Domenica,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 1,Domenica,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 1,Domenica,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 1,Domenica,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 1,Domenica,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Lunedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Lunedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Lunedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Lunedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Lunedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Lunedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Lunedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Lunedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Lunedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Lunedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Lunedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Lunedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Lunedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Lunedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Lunedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Martedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Martedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Martedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Martedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Martedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Martedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Martedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Martedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Martedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Martedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Martedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Martedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Martedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Martedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Martedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Mercoledì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Mercoledì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Mercoledì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Mercoledì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Mercoledì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Mercoledì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Mercoledì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Mercoledì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Mercoledì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Mercoledì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Mercoledì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Mercoledì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Mercoledì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Mercoledì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Mercoledì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Giovedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Giovedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Giovedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Giovedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Giovedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Giovedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Giovedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Giovedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Giovedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Giovedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Giovedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Giovedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Giovedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Giovedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Giovedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Venerdì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Venerdì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Venerdì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Venerdì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Venerdì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Venerdì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Venerdì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Venerdì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Venerdì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Venerdì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Venerdì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Venerdì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Venerdì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Venerdì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Venerdì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Sabato,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Sabato,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Sabato,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Sabato,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Sabato,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Sabato,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Sabato,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Sabato,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Sabato,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Sabato,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Sabato,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Sabato,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Sabato,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Sabato,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Sabato,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 2,Domenica,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 2,Domenica,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 2,Domenica,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 2,Domenica,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 2,Domenica,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 2,Domenica,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 2,Domenica,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 2,Domenica,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 2,Domenica,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 2,Domenica,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 2,Domenica,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 2,Domenica,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 2,Domenica,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 2,Domenica,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 2,Domenica,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Lunedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Lunedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Lunedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Lunedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Lunedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Lunedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Lunedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Lunedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Lunedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Lunedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Lunedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Lunedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Lunedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Lunedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Lunedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Martedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Martedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Martedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Martedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Martedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Martedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Martedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Martedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Martedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Martedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Martedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Martedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Martedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Martedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Martedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Mercoledì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Mercoledì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Mercoledì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Mercoledì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Mercoledì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Mercoledì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Mercoledì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Mercoledì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Mercoledì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Mercoledì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Mercoledì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Mercoledì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Mercoledì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Mercoledì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Mercoledì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Giovedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Giovedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Giovedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Giovedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Giovedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Giovedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Giovedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Giovedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Giovedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Giovedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Giovedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Giovedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Giovedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Giovedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Giovedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Venerdì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Venerdì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Venerdì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Venerdì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Venerdì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Venerdì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Venerdì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Venerdì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Venerdì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Venerdì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Venerdì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Venerdì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Venerdì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Venerdì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Venerdì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Sabato,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Sabato,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Sabato,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Sabato,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Sabato,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Sabato,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Sabato,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Sabato,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Sabato,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Sabato,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Sabato,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Sabato,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Sabato,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Sabato,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Sabato,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 3,Domenica,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 3,Domenica,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 3,Domenica,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 3,Domenica,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 3,Domenica,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 3,Domenica,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 3,Domenica,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 3,Domenica,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 3,Domenica,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 3,Domenica,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 3,Domenica,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 3,Domenica,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 3,Domenica,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 3,Domenica,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 3,Domenica,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Lunedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Lunedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Lunedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Lunedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Lunedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Lunedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Lunedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Lunedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Lunedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Lunedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Lunedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Lunedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Lunedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Lunedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Lunedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Martedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Martedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Martedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Martedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Martedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Martedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Martedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Martedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Martedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Martedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Martedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Martedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Martedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Martedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Martedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Mercoledì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Mercoledì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Mercoledì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Mercoledì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Mercoledì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Mercoledì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Mercoledì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Mercoledì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Mercoledì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Mercoledì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Mercoledì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Mercoledì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Mercoledì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Mercoledì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Mercoledì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Giovedì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Giovedì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Giovedì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Giovedì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Giovedì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Giovedì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Giovedì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Giovedì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Giovedì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Giovedì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Giovedì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Giovedì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Giovedì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Giovedì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Giovedì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Venerdì,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Venerdì,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Venerdì,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Venerdì,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Venerdì,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Venerdì,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Venerdì,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Venerdì,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Venerdì,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Venerdì,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Venerdì,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Venerdì,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Venerdì,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Venerdì,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Venerdì,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Sabato,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Sabato,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Sabato,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Sabato,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Sabato,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Sabato,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Sabato,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Sabato,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Sabato,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Sabato,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Sabato,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Sabato,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Sabato,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Sabato,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Sabato,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
+Settimana 4,Domenica,Colazione,Opzione 1,"Pane integrale (50g), ricotta light (100g), miele, fragole"
+Settimana 4,Domenica,Colazione,Opzione 2,"Yogurt greco (150g), muesli integrale (40g), kiwi, mandorle (10g)"
+Settimana 4,Domenica,Colazione,Opzione 3,"Pancake con aquafaba, banana a fette, crema di mandorle (10g)"
+Settimana 4,Domenica,Spuntino Mattino,Opzione 1,1 mela + 10 mandorle
+Settimana 4,Domenica,Spuntino Mattino,Opzione 2,Yogurt bianco intero (125g) + semi di lino
+Settimana 4,Domenica,Spuntino Mattino,Opzione 3,1 pera + crema di nocciole 100% su 1 wasa
+Settimana 4,Domenica,Pranzo,Opzione 1,"Insalata di farro (70g), ceci (60g), zucchine, carote, olio EVO"
+Settimana 4,Domenica,Pranzo,Opzione 2,"Riso venere (70g), salmone (120g), asparagi, piselli"
+Settimana 4,Domenica,Pranzo,Opzione 3,"Pasta integrale (80g), sgombro, finocchi, scorza di limone"
+Settimana 4,Domenica,Spuntino Pomeridiano,Opzione 1,Skyr (150g) + fragole
+Settimana 4,Domenica,Spuntino Pomeridiano,Opzione 2,Crackers integrali + hummus
+Settimana 4,Domenica,Spuntino Pomeridiano,Opzione 3,Yogurt greco + composta senza zucchero
+Settimana 4,Domenica,Cena,Opzione 1,"Orata al forno (120g), patate novelle (100g), agretti con limone"
+Settimana 4,Domenica,Cena,Opzione 2,"Tartare di salmone, pane integrale (40g), insalata di finocchi e carote"
+Settimana 4,Domenica,Cena,Opzione 3,"Tofu grigliato, purea di fave e menta, pane integrale (30g)"
