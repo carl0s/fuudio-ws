@@ -16,7 +16,8 @@ if (process.env.NODE_ENV === 'production') {
   prisma = global.prisma;
 }
 
-export async function GET(request: Request) {
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
+export async function GET(_request: Request) {
   console.log('Received GET request for /api/diet');
   try {
     // Recupera tutte le settimane includendo i dati correlati
@@ -73,5 +74,6 @@ export async function GET(request: Request) {
 
 // Aggiungi un type a global per TypeScript
 declare global {
+  // eslint-disable-next-line no-var
   var prisma: PrismaClient | undefined;
 } 
